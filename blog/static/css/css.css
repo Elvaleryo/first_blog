@@ -23,6 +23,20 @@ header {
 	position: relative;
 }
 
+.add-post {
+	position: absolute;
+	right: 11%;
+	top: 22%;
+	font-size: 20px;
+	color: #fff;
+	text-transform: uppercase;
+	z-index: 99;
+}
+
+.add-post:hover {
+	color:#ffafaf;
+}
+
 h1 a {
 	color: #fff;
 	font-size: 100px;
